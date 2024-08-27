@@ -12,6 +12,7 @@
 	<artifactId>learntoearn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learntoearn</name>
+	<packaging>war</packaging>
 	<description>This Project Is Regarding How To Earn In Current World</description>
 	<url/>
 	<licenses>
